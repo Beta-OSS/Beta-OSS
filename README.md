@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Beta-OSS
 - 👀 I’m interested in any Python or C# projects you need help with
-- 🌱 I’m currently learning C# via Unity and would love any help you can offer.
 - 📫 How to reach me on discord via Beta#0376
 
 <!---
